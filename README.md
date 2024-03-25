@@ -14,5 +14,7 @@ Optimized Performance: With a lightweight design, the app maintains optimal perf
 Launch the App: Open the app to a simple and intuitive home screen.
 Input Number: Enter the desired number for generating the multiplication table.
 Generate Table: A single tap on the "Submit" button displays the multiplication table instantly.
-Purpose:
+
+## Purpose:
+
 This app is a valuable educational resource, particularly beneficial for students aiming to reinforce their multiplication skills. Whether for study purposes or quick reference, the app provides an efficient approach to learning multiplication tables.
